@@ -1,7 +1,7 @@
 <center><img src="https://raw.github.com/khairullahhamsafar/portfolio_prjects/main/Investigating_High_Cancellation_Rate_in_Hotels/img/hotal_banner_01.jpg"></center>
 
-# Hotel Bookings Analysis: Understanding Cancellation Trends 🏨 &#128202; &#128176;
-# Data-driven Analysis to Counteract High Cancellation Rates 📊 &#128293; 
+# Hotel Bookings Analysis: Understanding Cancellation Trends 🏨 &#128176;
+# Data-driven Analysis to Counteract High Cancellation Rates &#128202; &#128293; 
 
 <br/>
 
